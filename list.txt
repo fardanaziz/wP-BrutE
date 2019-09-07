@@ -1,2 +1,1 @@
-duniawisata.master.web.id
-resha.web.id
+kancil.net
